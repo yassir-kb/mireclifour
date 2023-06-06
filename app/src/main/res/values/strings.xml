@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">mireclifour</string>
+    <string name="app_name">Mireclifour</string>
+    <string name="title_activity_main_register">MainRegisterActivity</string>
+
+    <string name="navigation_draweropen">Open navigation drawer</string>
+    <string name="navigation_drawerclose">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="thank_you">We send you mail for the last instructions, thank you for buying with us :)</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_shopping">MireclifourActivity</string>
+    <string name="icon_right">&#xf067;</string>
+    <string name="icon_down">&#xf068;</string>
+    <string name="demo_min_label">70</string>
+    <string name="demo_max_label">800</string>
+    <string name="title_activity_maps">Map</string>
+
 </resources>

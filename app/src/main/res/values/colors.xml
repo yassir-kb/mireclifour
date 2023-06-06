@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#4C283C</color>
+    <color name="colorPrimaryDark">#4C283C</color>
+    <color name="colorAccent">#1a1919</color>
+    <color name="black">#1a1919</color>
+    <color name="light">#f4ecec</color>
+    <color name="white_transpernt">#4df7f9fa</color>
+
+    <color name="white">#bcb3b3</color>
+    <color name="background">#f2f5f3</color>
+    <color name="white1">#fffefe</color>
+    <color name="login">#4C283C</color>
+    <color name="logo_orange">#FB8600</color>
+    <color name="logo_blue">#4C283C</color>
+    <color name="cartcolor">#ededed</color>
+    <color name="logobackground">#4C283C</color>
+    <color name="logo_main">#C01E2E</color>
+    <color name="logo_light">#5D5E60</color>
+    <color name="logo_main_transparent">#99e9e3e4</color>
+    <color name="logo_light_transparent">#995D5E60</color>
+    <color name="gray">#ececf7</color>
+    <color name="light_gry">#f6f6fc</color>
+    <!-- Toast colors.... -->
+    <color name="material_place_holder">#4C283C</color>
+    <color name="red">#CC3300</color>
+    <color name="ligth_red">#FAEBE6</color>
+    <color name="red_transparent">#99CC3300</color>
+    <color name="green">#4DB849</color>
+    <color name="ligth_green">#DBF1DB</color>
+    <color name="green_transparent">#994DB849</color>
+    <color name="sky_blue">#4C283C</color>
+    <color name="ligth_sky_blue">#CCEDF9</color>
+    <color name="sky_blue_transparent">#4C283C</color>
+    <color name="main_btn_transpernt">#43dedada</color>
 </resources>
