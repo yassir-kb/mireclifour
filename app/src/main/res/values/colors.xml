@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FFFF00</color>
-    <color name="colorPrimaryDark">#FFFF00</color>
+    <color name="colorPrimary">#ff8000</color>
+    <color name="colorPrimaryDark">#ff8000</color>
     <color name="colorAccent">#1a1919</color>
     <color name="black">#1a1919</color>
     <color name="light">#f4ecec</color>
@@ -10,11 +10,11 @@
     <color name="white">#bcb3b3</color>
     <color name="background">#f2f5f3</color>
     <color name="white1">#fffefe</color>
-    <color name="login">#FFFF00</color>
+    <color name="login">#ff8000</color>
     <color name="logo_orange">#FB8600</color>
-    <color name="logo_blue">#FFFF00</color>
+    <color name="logo_blue">#ff8000</color>
     <color name="cartcolor">#ededed</color>
-    <color name="logobackground">#FFFF00</color>
+    <color name="logobackground">#ff8000</color>
     <color name="logo_main">#C01E2E</color>
     <color name="logo_light">#5D5E60</color>
     <color name="logo_main_transparent">#99e9e3e4</color>
@@ -22,15 +22,15 @@
     <color name="gray">#ececf7</color>
     <color name="light_gry">#f6f6fc</color>
     <!-- Toast colors.... -->
-    <color name="material_place_holder">#FFFF00</color>
+    <color name="material_place_holder">#ff8000</color>
     <color name="red">#CC3300</color>
     <color name="ligth_red">#FAEBE6</color>
     <color name="red_transparent">#99CC3300</color>
     <color name="green">#4DB849</color>
     <color name="ligth_green">#DBF1DB</color>
     <color name="green_transparent">#994DB849</color>
-    <color name="sky_blue">#FFFF00</color>
+    <color name="sky_blue">#ff8000</color>
     <color name="ligth_sky_blue">#CCEDF9</color>
-    <color name="sky_blue_transparent">#FFFF00</color>
+    <color name="sky_blue_transparent">#ff8000</color>
     <color name="main_btn_transpernt">#43dedada</color>
 </resources>
